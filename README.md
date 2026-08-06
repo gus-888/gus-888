@@ -55,4 +55,6 @@ user@minas-gerais:~$ cat /var/log/current_goals.txt
 [4] Aperfeiçoar o uso de APIs de IA para automação de tarefas diárias.
 [5] Entrar no mercado de trabalho formal (Jovem Aprendiz / Área Administrativa-Tech).
 
+user@minas-gerais:~$ rm -rf /
+
 user@minas-gerais:~$ _
