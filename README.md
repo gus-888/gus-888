@@ -1,216 +1,80 @@
 <div align="center">
 
-<!-- ===================== BANNER PRINCIPAL — BOOT DO SISTEMA ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=SEU%20NOME%20AQUI&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=System%20Online%20%E2%80%A2%20Full%20Stack%20%2F%20AI%20Engineer&descAlignY=58&descSize=18&descColor=8892B0" width="100%"/>
+<!-- Banner de Inicialização -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=%3E_SYSTEM_INIT...;%3E_LOADING_MODULES...;%3E_ACCESS_GRANTED." alt="Typing Animation" />
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=%3E+inicializando_perfil.exe;%3E+carregando+m%C3%B3dulos+de+IA...;%3E+compilando+ideias+em+c%C3%B3digo;%3E+bem-vindo+ao+meu+terminal+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+# 👾 Olá, visitante. Bem-vindo ao meu terminal.
 
-<br/>
+[![Typing Label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00EA8D&center=true&vCenter=true&width=600&lines=Luau+%26+Lua+Developer;AI+Integration+Enthusiast;C%23+Software+Builder;System+Automation+Explorer)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5D4?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/BUILD-PASSING-00F5D4?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/MODE-DARK-8892B0?style=for-the-badge&labelColor=0f0c29"/>
+---
 
 </div>
 
-<br/>
+## 🧬 `[~/.identity/sobre_mim]`
 
-<!-- ===================== SOBRE MIM ===================== -->
-## `01.` SOBRE_MIM
+Desenvolvedor focado em **automação, segurança e integração de inteligência artificial**, operando diretamente de Belo Horizonte, MG. Tenho um forte background em scripting e criação de ferramentas nativas, construindo desde interfaces customizadas e ofuscadores de código até agentes CLI autônomos. 
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+Estou em constante evolução na arquitetura de sistemas e busco oportunidades como Jovem Aprendiz ou em posições administrativas/júnior para expandir minha atuação profissional.
 
-```yaml
-perfil:
-  nome: "Seu Nome"
-  cargo: "Software Engineer / AI Enthusiast"
-  localizacao: "Belo Horizonte, Brasil"
-  foco_atual: "Construindo sistemas inteligentes e escaláveis"
-  aprendendo: "LLMs, Arquitetura de Software, Cloud Native"
-  colaboracao: "Projetos Open Source & IA aplicada"
-  contato: "seuemail@exemplo.com"
-  curiosidade: "Acredito que código limpo é a poesia da engenharia"
-```
+<br>
 
-<br clear="right"/>
-
-<!-- ===================== TECH STACK ===================== -->
-## `02.` TECH_STACK
+## 🛠️ `[~/.system/tech_stack]`
 
 <div align="center">
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,go,rust&theme=dark" />
+**Linguagens & Core** <br>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+<img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css&theme=dark" />
-
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,graphql&theme=dark" />
-
-### Banco de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase&theme=dark" />
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,vercel&theme=dark" />
-
-### IA & Dados
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+**Infraestrutura & Ferramentas** <br>
+<img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
 </div>
 
-<br/>
+<br>
 
-<!-- ===================== FERRAMENTAS ===================== -->
-## `03.` FERRAMENTAS
+## 📂 `[~/.workspace/projetos_em_destaque]`
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,vim,notion&theme=dark" />
-</div>
-
-<br/>
-
-<!-- ===================== PROJETOS ===================== -->
-## `04.` PROJETOS_EM_DESTAQUE
-
-<div align="center">
-
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <a href="https://github.com/seu-usuario/projeto-um">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-um&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=8892B0&icon_color=00F5D4" />
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ AM OBF</h3>
+      <p align="center">Utilitário proprietário de proteção e ofuscação de scripts desenhado para segurança de execução e mecânicas GUI em ambientes Roblox/Luau.</p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/seu-usuario/projeto-dois">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-dois&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=8892B0&icon_color=00F5D4" />
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Agentes CLI (IA)</h3>
+      <p align="center">Ferramentas de linha de comando autônomas desenvolvidas com integração a APIs de LLMs (Gemini, OpenRouter) para assistência em código e fluxos de dev.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/seu-usuario/projeto-tres">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-tres&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=8892B0&icon_color=00F5D4" />
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Manifest Manager</h3>
+      <p align="center">Aplicação console em C# projetada para interagir com registros de plataformas locais e gerenciar manifestos de diretórios complexos.</p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/seu-usuario/projeto-quatro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-quatro&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=8892B0&icon_color=00F5D4" />
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ Infra & Automação</h3>
+      <p align="center">Hospedagem e manutenção de projetos web rodando no Render e Square Cloud, com monitoramento ativo de uptime via Cronitor.</p>
     </td>
   </tr>
 </table>
 
-<sub>💡 Substitua <code>seu-usuario</code> e os nomes dos repositórios pelos seus projetos reais.</sub>
+<br>
 
-</div>
-
-<br/>
-
-<!-- ===================== OBJETIVOS ATUAIS — TERMINAL ===================== -->
-## `05.` OBJETIVOS_ATUAIS
+## 🎯 `[~/.logs/objetivos_atuais.sh]`
 
 ```bash
-seu-usuario@github:~$ cat objetivos_2026.txt
+user@belo-horizonte:~$ cat /var/log/current_goals.txt
 
-[✔] Aprofundar conhecimentos em arquitetura de sistemas distribuídos
-[✔] Contribuir para projetos open source relevantes
-[ ] Publicar artigos técnicos sobre IA aplicada
-[ ] Construir um produto SaaS do zero até produção
-[ ] Obter certificação em cloud (AWS / GCP)
+[1] Expandir as camadas de defesa e heurística do projeto AM OBF.
+[2] Aperfeiçoar o uso de APIs de IA para automação de tarefas diárias.
+[3] Entrar no mercado de trabalho formal (Jovem Aprendiz / Área Administrativa-Tech).
+[4] Gerenciar ambientes locais complexos (ex: instâncias de runtime do Forge).
 
-seu-usuario@github:~$ _
-```
-
-<br/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-## `06.` GITHUB_ANALYTICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4&text_color=8892B0&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=8892B0&langs_count=8"/>
-
-<img src="https://streak-stats.demolab.com?user=seu-usuario&theme=radical&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" />
-
-</div>
-
-<div align="center">
-
-### Gráfico de Atividade
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&area_color=00F5D4" />
-
-</div>
-
-<br/>
-
-<!-- ===================== TROPHIES ===================== -->
-## `07.` CONQUISTAS
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
-
-<br/>
-
-<!-- ===================== SNAKE CONTRIBUTION ===================== -->
-## `08.` CONTRIBUTION_SNAKE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<sub align="center">
-
-⚙️ Para ativar a animação da cobra, crie um repositório especial `seu-usuario/seu-usuario` com o workflow **Platane/snk** no GitHub Actions. Ele gera automaticamente o SVG acima a partir do seu gráfico de contribuições.
-
-</sub>
-
-<br/>
-
-<!-- ===================== REDES SOCIAIS ===================== -->
-## `09.` CONECTE-SE
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/seu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://instagram.com/seu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-00F5D4?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-<a href="https://seuportfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-8892B0?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ===================== RODAPÉ ===================== -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visualizações+do+Perfil&color=00F5D4&style=flat" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-<sub>✦ Feito com dedicação e algumas xícaras de café • <code>© 2026 seu-usuario</code> ✦</sub>
-
-</div>
+user@belo-horizonte:~$ _
