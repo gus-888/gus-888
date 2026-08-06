@@ -34,6 +34,7 @@ Estou em constante evolução na arquitetura de sistemas e busco oportunidades c
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 **Infraestrutura & Ferramentas** <br>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 <img src="https://img.shields.io/badge/Visual_Studio_2026-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio 2026" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
