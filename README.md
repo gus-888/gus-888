@@ -5,7 +5,7 @@
 
 # 👾 Olá, visitante. Bem-vindo ao meu perfil.
 
-[![Typing Label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00EA8D&center=true&vCenter=true&width=600&lines=C%2FC%2B%2B+%26+C%23+Developer;Multi+Scripter;TypeScript+Explorer;AI+Integration+Enthusiast;System+Automation)](https://git.io/typing-svg)
+[![Typing Label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00EA8D&center=true&vCenter=true&width=600&lines=C%2FC%2B%2B+%26+C%23+Developer;Luau+Scripter;Web+Explorer;AI+Integration+Enthusiast;System+Automation)](https://git.io/typing-svg)
 
 ---
 
