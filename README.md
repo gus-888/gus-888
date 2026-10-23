@@ -13,7 +13,7 @@
 
 ## 🧬 `[~/.identity/sobre_mim]`
 
-Desenvolvedor focado em **automação, segurança e integração de inteligência artificial**, operando diretamente de Minas Gerais, Brasil. Tenho um forte background em scripting, linguagens de baixo a alto nível, e criação de ferramentas nativas. Construo desde interfaces customizadas e ofuscadores de código até agentes CLI autônomos. 
+Desenvolvedor focado em **automação, segurança e integração de inteligência artificial**. Tenho um forte background em scripting, linguagens de baixo a alto nível, e criação de ferramentas nativas. Construo desde interfaces customizadas e ofuscadores de código até agentes CLI autônomos. 
 
 Estou em constante evolução na arquitetura de sistemas e busco oportunidades como Jovem Aprendiz ou em posições administrativas/júnior para expandir minha atuação profissional no mercado tech.
 
@@ -47,7 +47,7 @@ Estou em constante evolução na arquitetura de sistemas e busco oportunidades c
 ## 🎯 `[~/.logs/objetivos_atuais.sh]`
 
 ```bash
-user@minas-gerais:~$ cat /var/log/current_goals.txt
+user@github:~$ cat /var/log/current_goals.txt
 
 [1] Dominar performance e gestão de memória com C/C++.
 [2] Expandir o ecossistema e tipagem forte em projetos web com TypeScript.
@@ -55,6 +55,6 @@ user@minas-gerais:~$ cat /var/log/current_goals.txt
 [4] Aperfeiçoar o uso de APIs de IA para automação de tarefas diárias.
 [5] Entrar no mercado de trabalho formal (Jovem Aprendiz / Área Administrativa-Tech).
 
-user@minas-gerais:~$ rm -rf /
+user@github:~$ rm -rf /
 
-user@minas-gerais:~$ _
+user@github:~$ _
