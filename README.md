@@ -3,7 +3,7 @@
 <!-- Banner de Inicialização -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=%3E_SYSTEM_INIT...;%3E_LOADING...;%3E_ACCESS_GRANTED." alt="Typing Animation" />
 
-# 👾 Olá, visitante. Bem-vindo ao meu perfil.
+# 👾 Olá, bem-vindo ao meu parquinho.
 
 [![Typing Label](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00EA8D&center=true&vCenter=true&width=600&lines=C%2FC%2B%2B+%26+C%23+Developer;Luau+Scripter;Web+Explorer;AI+Integration+Enthusiast;System+Automation)](https://git.io/typing-svg)
 
