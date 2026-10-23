@@ -44,17 +44,7 @@ Estou em constante evolução na arquitetura de sistemas e busco oportunidades c
 
 <br>
 
-## 🎯 `[~/.logs/objetivos_atuais.sh]`
-
 ```bash
-user@github:~$ cat /var/log/current_goals.txt
-
-[1] Dominar performance e gestão de memória com C/C++.
-[2] Expandir o ecossistema e tipagem forte em projetos web com TypeScript.
-[3] Expandir as camadas de defesa e heurística de ofuscadores de código locais.
-[4] Aperfeiçoar o uso de APIs de IA para automação de tarefas diárias.
-[5] Entrar no mercado de trabalho formal (Jovem Aprendiz / Área Administrativa-Tech).
-
 user@github:~$ rm -rf /
 
 user@github:~$ _
